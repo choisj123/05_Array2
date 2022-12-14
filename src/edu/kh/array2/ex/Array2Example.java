@@ -26,7 +26,6 @@ public class Array2Example {
 		// 1) 행, 열 인덱스를 이용해서 직접 초기화
 		/*
 		arr[0][0] = 10;
-		 
 		arr[0][1] = 20;
 		arr[0][2] = 30;
 		
