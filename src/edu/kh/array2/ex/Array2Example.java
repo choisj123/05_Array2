@@ -125,8 +125,6 @@ public class Array2Example {
 			}
 		}
 		System.out.println("전체 합: " + sum);
-
-	
 	}
 
 	public void ex3() {
@@ -138,7 +136,7 @@ public class Array2Example {
 							//char 2차원 배열 생성 시 행 부분만 작성
 		
 		arr[0] = new char[3]; // 0행에 3열짜리 1차원 배열을 생성하여 주소값 저장
-		arr[1] = new char[4]; // 1행에 3열까지 1차원 배열을 생상하여 주소값 저장
+		arr[1] = new char[4]; // 1행에 4열까지 1차원 배열을 생상하여 주소값 저장
 		arr[2] = new char[5]; // 2행에 5열까지 1차원 배열을 생상하여 주소값 저장
 		arr[3] = new char[2]; // 3행에 2열까지 1차원 배열을 생상하여 주소값 저장
 		
