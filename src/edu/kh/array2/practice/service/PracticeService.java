@@ -175,7 +175,8 @@ public class PracticeService {
 		
 		System.out.println();
 		
-		
+		//if --> " "빈칸
+				//else "x"
 		
 	
 		
